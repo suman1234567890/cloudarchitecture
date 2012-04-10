@@ -1,0 +1,5 @@
+G:\CloudFinal\ScannerClerk\ScannerClerk\bin\Debug\ScannerClerk.exe
+G:\CloudFinal\ScannerClerk\ScannerClerk\bin\Debug\ScannerClerk.pdb
+G:\CloudFinal\ScannerClerk\ScannerClerk\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\CloudFinal\ScannerClerk\ScannerClerk\obj\x86\Debug\ScannerClerk.exe
+G:\CloudFinal\ScannerClerk\ScannerClerk\obj\x86\Debug\ScannerClerk.pdb
